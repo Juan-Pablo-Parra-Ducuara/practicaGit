@@ -59,7 +59,7 @@ feature/login (gestión de autenticación de usuarios)
 feature/pacientes (módulo de gestión de pacientes)
 feature/citas (agendamiento de citas médicas)
 
-Cada una de estas ramas permitió trabajar de forma aislada y luego integrarse a develop.
+Cada una de estas ramas permitió trabajar de forma aislada y luego integrarse a develop..
 
 Rama release/v1.0.0:
 Se creó esta rama para preparar la primera versión estable del sistema. En esta etapa se realizaron pruebas finales, corrección de errores menores y validación general del funcionamiento del consultorio antes de su publicación.
