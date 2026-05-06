@@ -50,5 +50,4 @@ La aplicación web del **Consultorio Odontológico - Rosa Ducuara** permite:
 
 ## Flujo de trabajo Git
 ## Evidencias
-## Flujo de trabajo Git
-## Evidencias
+## Flujo d
